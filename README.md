@@ -1,1 +1,1 @@
-# augmeted_cyclegan
+# Augmeted Cyclegan
